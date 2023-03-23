@@ -10,7 +10,7 @@ public class Proxy implements IServidor {
 
 
     public Proxy() {
-        System.out.println("-------------Iniciando proxy y servidores-----------");
+        System.out.println("-------------Iniciando proxy y servidores----------");
         System.out.println();
         listUsers = new ArrayList<>();
         servidor1 = new Servidor1();
