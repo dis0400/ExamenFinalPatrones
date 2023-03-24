@@ -1,6 +1,6 @@
 package Ej3Bridge;
 
 public interface ImplementorEnvio {
-    public float aumentoPrecio();
+    public double aumentoPrecio();
     public String nombreFormaEnvio();
 }
